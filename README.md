@@ -4,7 +4,7 @@
 
 ### Utilizado:
 
-<p align="left" >
+<div align="left" >
 	
 #### Bibliotecas:
 - Yup
@@ -15,17 +15,17 @@
 - Express-async-errors
 - Supertest
 
-</p>
+</div>
 
-<p align="right" >
+<div align="right" >
 
 #### Frameworks:
 - NodeJS
 - Express
 - Jest
 
-</p>
-<p align="right" >
+</div>
+<div align="right" >
 
 #### Linguagens:
 - Typescript
@@ -37,15 +37,15 @@
 #### Banco de Dados:
 - Sqlite
 
-</p>
- <p align="right" >
+</div>
+ <div align="right" >
  
 #### Aplicações:
 - Insomnia
 - Ethereal Email
 - Beekeeper
 - VSCode
-</p>
+</div>
 <hr />
 
 ## Aprendizados
