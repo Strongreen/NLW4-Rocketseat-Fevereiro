@@ -4,49 +4,15 @@
 
 ### Utilizado:
 
-<div align="left" >
-	
-#### Bibliotecas:
-- Yup
-- uuid
-- Nodemailer
-- Handlebars
-- Reflect-metadata
-- Express-async-errors
-- Supertest
-
-</div>
-
-<div align="right" >
-
-#### Frameworks:
-- NodeJS
-- Express
-- Jest
-
-</div>
-<div align="right" >
-
-#### Linguagens:
-- Typescript
-- SQL
-
-#### ORM:
-- TypeORM
- 
-#### Banco de Dados:
-- Sqlite
-
-</div>
- <div align="right" >
- 
-#### Aplicações:
-- Insomnia
-- Ethereal Email
-- Beekeeper
-- VSCode
-</div>
-<hr />
+#### Bibliotecas  | Frameworks | Linguagens | ORM | Banco de Dados | Aplicações
+----------------- | ---------- | ---------- |---- |----------------|------------
+Yup               | NodeJS     | Typescript | TypeORM | Sqlite | Insomnia
+uuid              | Express    | SQL        | -       | -      | Ethereal Email
+Nodemailer        | Jest       | -          | -       | -      | Beekeeper
+Handlebars        | -          | -          | -       |  -     | VSCode
+Reflect-metadata  | -          | -          | -       |  -     |
+Express-async-errors| -        | -          | -       |  -     |
+Supertest         | -          | -          | -       |  -     |
 
 ## Aprendizados
 
