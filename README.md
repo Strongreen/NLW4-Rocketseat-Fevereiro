@@ -4,15 +4,15 @@
 
 ### Utilizado:
 
-#### Bibliotecas  | Frameworks | Linguagens | ORM | Banco de Dados | Aplicações
+Bibliotecas  | Frameworks | Linguagens | ORM | Banco de Dados | Aplicações
 ----------------- | ---------- | ---------- |---- |----------------|------------
 Yup               | NodeJS     | Typescript | TypeORM | Sqlite | Insomnia
-uuid              | Express    | SQL        | -       | -      | Ethereal Email
-Nodemailer        | Jest       | -          | -       | -      | Beekeeper
-Handlebars        | -          | -          | -       |  -     | VSCode
-Reflect-metadata  | -          | -          | -       |  -     |
-Express-async-errors| -        | -          | -       |  -     |
-Supertest         | -          | -          | -       |  -     |
+uuid              | Express    | SQL        | \|       | \|      | Ethereal Email
+Nodemailer        | Jest       | \|          | \|       | \|      | Beekeeper
+Handlebars        | \|          |\|         | \|       |  \|     | VSCode
+Reflect-metadata  |\|          | \|          | \|       |  \|     |
+Express-async-errors| \|        |\|          | \|       |  \|     |
+Supertest         | \|          |\|         | \|      |  \|     |
 
 ## Aprendizados
 
