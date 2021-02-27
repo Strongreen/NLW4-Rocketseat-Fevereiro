@@ -21,6 +21,7 @@ Bibliotecas, frameworks e linguagens utilizadas:
 - Ethereal Email
 
 <hr />
+
 # Aprendizados
 
 Gostaria de destacar os aprendizados que tive nesse projetos:
