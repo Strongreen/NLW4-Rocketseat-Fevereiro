@@ -2,27 +2,41 @@
 
 ## Projeto de NodeJS - Criando um sistema de NPS
 
-Bibliotecas, frameworks e linguagens utilizadas:
-- Typescript
-- NodeJS
-- Sqlite
-- TypeORM
-- Supertest
-- Express
+### Utilizado:
+
+#### Bibliotecas:
 - Yup
-- Insomnia
-- Beekeeper
 - uuid
 - Nodemailer
 - Handlebars
 - Reflect-metadata
 - Express-async-errors
+- Supertest
+
+#### Frameworks:
+- NodeJS
+- Express
 - Jest
+
+#### Linguagens:
+- Typescript
+- SQL
+
+#### ORM:
+- TypeORM
+ 
+#### Banco de Dados:
+- Sqlite
+
+#### Aplicações:
+- Insomnia
 - Ethereal Email
+- Beekeeper
+- VSCode
 
 <hr />
 
-# Aprendizados
+## Aprendizados
 
 Gostaria de destacar os aprendizados que tive nesse projetos:
 - Como customizar de Erros e validações
