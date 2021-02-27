@@ -1,0 +1,5 @@
+{
+    "files.insertFinalNewline": true,
+    "prettier.insertPragma": true,
+    "git.ignoreLimitWarning": true
+}
