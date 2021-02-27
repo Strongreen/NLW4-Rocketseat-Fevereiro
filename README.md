@@ -1,4 +1,4 @@
-### NLW4-Rocketseat
+# NLW4-Rocketseat
 
 ## Projeto de NodeJS - Criando um sistema de NPS
 
@@ -35,7 +35,7 @@ Gostaria de destacar os aprendizados que tive nesse projetos:
 
 ## Definições de POST e GET para utilizar a API:
 
-# POST
+### POST
 /users
 
 ```
@@ -45,7 +45,7 @@ Gostaria de destacar os aprendizados que tive nesse projetos:
 }
 ```
 
-# GET
+### GET
 /users
 
 ```
@@ -65,7 +65,7 @@ Gostaria de destacar os aprendizados que tive nesse projetos:
 ]
 ```
 
-# POST
+### POST
 /surveys
 
 ```
@@ -75,7 +75,7 @@ Gostaria de destacar os aprendizados que tive nesse projetos:
 }
 ```
 
-# GET
+### GET
 /surveys
 
 ```
@@ -94,7 +94,7 @@ Gostaria de destacar os aprendizados que tive nesse projetos:
   }
 ]
 ```
-# GET
+### GET
 /nps/:id_surveys
 
 ```
