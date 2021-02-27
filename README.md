@@ -1,9 +1,11 @@
-# NLW4-Rocketseat
+# NLW#4-Rocketseat
 
-## Projeto de NodeJS - Criando um sistema de NPS
+## Sistema de envio de pesquisa via email e obtenção do cálculo do NPS
 
 ### Utilizado:
 
+<p align="left" >
+	
 #### Bibliotecas:
 - Yup
 - uuid
@@ -13,10 +15,17 @@
 - Express-async-errors
 - Supertest
 
+</p>
+
+<p align="right" >
+
 #### Frameworks:
 - NodeJS
 - Express
 - Jest
+
+</p>
+<p align="right" >
 
 #### Linguagens:
 - Typescript
@@ -28,12 +37,15 @@
 #### Banco de Dados:
 - Sqlite
 
+</p>
+ <p align="right" >
+ 
 #### Aplicações:
 - Insomnia
 - Ethereal Email
 - Beekeeper
 - VSCode
-
+</p>
 <hr />
 
 ## Aprendizados
